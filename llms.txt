@@ -1,0 +1,17 @@
+# G+Money Lite: Trip Spending support
+
+> Official support, help and privacy pages for G+Money Lite: Trip Spending, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6793436548
+- Platform: iOS
+- App Store category: Finance
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/gmoney-lite-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/gmoney-lite-support/help.html)
+- [Support and contact](https://open.cait518.cc/gmoney-lite-support/support.html)
+- [Privacy policy](https://open.cait518.cc/gmoney-lite-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
