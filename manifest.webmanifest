@@ -1,6 +1,6 @@
 {
-  "name": "G+Money Lite: Trip Spending",
-  "short_name": "G+Money Lite: Trip Spending",
+  "name": "G+Money Lite: Travel Budget",
+  "short_name": "G+Money Lite: Travel Budget",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/a2/4c/9ca24c54-74d8-e9a4-0f35-0614b33f7185/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/56/29/e9562909-bdb7-d243-f852-9b475867761f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"

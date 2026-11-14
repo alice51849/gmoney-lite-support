@@ -1,6 +1,6 @@
-# G+Money Lite: Trip Spending support
+# G+Money Lite: Travel Budget support
 
-> Official support, help and privacy pages for G+Money Lite: Trip Spending, an iOS app by Lumi Studio.
+> Official support, help and privacy pages for G+Money Lite: Travel Budget, an iOS app by Lumi Studio.
 
 - App Store: https://apps.apple.com/app/id6793436548
 - Platform: iOS
