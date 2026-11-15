@@ -9,6 +9,7 @@
 
 ## Pages
 
+- [About the app: what it is, who it is for, pricing, differences](https://open.cait518.cc/gmoney-lite-support/about-gmoney-lite-app.html)
 - [Home](https://open.cait518.cc/gmoney-lite-support/)
 - [Help, FAQ and troubleshooting](https://open.cait518.cc/gmoney-lite-support/help.html)
 - [Support and contact](https://open.cait518.cc/gmoney-lite-support/support.html)
